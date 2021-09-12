@@ -10,6 +10,8 @@ const Header = styled.header((props) => ({
   alignItems: 'center',
   width: '100%',
   padding: '.5rem 1rem',
+  backgroundColor: 'var(--bg)',
+  zIndex: 99,
 }));
 
 export default Header;
