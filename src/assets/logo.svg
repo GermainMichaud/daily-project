@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="290" viewBox="0 0 450 290">
+  <defs>
+    <clipPath id="clip-Plan_de_travail_1">
+      <rect width="450" height="290"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_1" data-name="Plan de travail – 1" clip-path="url(#clip-Plan_de_travail_1)">
+    <g id="Groupe_1" data-name="Groupe 1" transform="translate(-4)">
+      <line id="Ligne_1" data-name="Ligne 1" y2="145" transform="translate(47.72 145.104) rotate(-45)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20"/>
+      <line id="Ligne_2" data-name="Ligne 2" y2="145" transform="translate(47.719 144.396) rotate(-135)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20"/>
+    </g>
+    <g id="Groupe_2" data-name="Groupe 2" transform="translate(454.97 289.5) rotate(-180)">
+      <line id="Ligne_1-2" data-name="Ligne 1" y2="145" transform="translate(47.72 145.104) rotate(-45)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20"/>
+      <line id="Ligne_2-2" data-name="Ligne 2" y2="145" transform="translate(47.719 144.396) rotate(-135)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20"/>
+    </g>
+    <line id="Ligne_3" data-name="Ligne 3" y2="206" transform="matrix(0.94, 0.342, -0.342, 0.94, 256.728, 47.712)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="20"/>
+  </g>
+</svg>
