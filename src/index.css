@@ -2,11 +2,13 @@
 
 :root {
   --bg: #efefef;
+  --bg-revert: #333;
   --fontColor: #333;
 }
 
 .dark {
   --bg: #333;
+  --bg-revert: #efefef;
   --fontColor: #efefef;
 }
 
